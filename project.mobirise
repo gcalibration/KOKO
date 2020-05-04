@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-04-19_1354",
-    "currentPage": "page9.html",
+    "currentPage": "page7.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -4613,7 +4613,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/screenshot-20200504-1013443-539x796.png",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
@@ -4727,7 +4727,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/screenshot-20200504-1015133-555x861.png",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
