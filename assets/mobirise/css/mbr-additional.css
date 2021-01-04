@@ -711,7 +711,9 @@ section.lazy-placeholder:after {
   opacity: 0.3;
 }
 .cid-rWBXJuIWt8 {
-  background-color: #0f7699;
+  padding-top: 0px;
+  padding-bottom: 30px;
+  background-color: #073b4c;
 }
 .cid-rWBXJuIWt8 .icons-media-container {
   display: flex;
@@ -738,6 +740,10 @@ section.lazy-placeholder:after {
 }
 .cid-rWBXJuIWt8 H1 {
   color: #ffffff;
+}
+.cid-rWBXJuIWt8 .mbr-text,
+.cid-rWBXJuIWt8 .mbr-section-btn {
+  color: #4ed61e;
 }
 .cid-rWHzSOt63Q {
   padding-top: 30px;
